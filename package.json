@@ -1,0 +1,19 @@
+{
+  "name": "gulp_project",
+  "version": "1.0.0",
+  "description": "static website build with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vsptpm/gulp-project.git"
+  },
+  "author": "vs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsptpm/gulp-project/issues"
+  },
+  "homepage": "https://github.com/vsptpm/gulp-project#readme"
+}
